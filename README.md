@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 *****************-
 Introducing XXX - your ultimate destination for all things crypto.
-Step into the world of CryptoVibes, where innovation meets enthusiasm, and trading becomes an exhilarating adventure! Our platform is not just a tool - it's a vibrant ecosystem designed to empower you on your crypto journey.
+Step into the world of XXX, where innovation meets enthusiasm, and trading becomes an exhilarating adventure! Our platform is not just a tool - it's a vibrant ecosystem designed to empower you on your crypto journey.
 
 Picture this: under the Dashboard tab, you're greeted by a kaleidoscope of colors in our heatmap, showcasing the 10 most trending cryptocurrencies. With green signaling an upward sentiment and red indicating a downward trend, it's like witnessing the heartbeat of the crypto market in real time!
 
