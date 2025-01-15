@@ -1,0 +1,12 @@
+d3
+react-router-dom
+react-bootstrap
+react-intersection-observer
+react-scripts
+axios
+nodemon
+express
+cors
+mongoose
+#-g typescript
+#-g ts-node
